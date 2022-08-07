@@ -534,7 +534,7 @@ form input::placeholder {
   transition: all 0.4s ease-in-out 0s;
   font-family: Raleway, sans-serif;
 }
-.btn-full:hover {
+.btn-full:hover,.btn-full:focus {
   background: rgb(243, 156, 18);
   border: none;
   color: rgb(255, 255, 255);
